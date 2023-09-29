@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "d4c45a5b-360e-bbb8-fa51-025b0c951944",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "04ebf957-05c1-8e00-ef2d-de0b9c2493e1",
+    "website": "18-238-geometry-and-quantum-field-theory-fall-2002"
+  },
+  "course_title": "Geometry and Quantum Field Theory",
+  "course_description": "Geometry and Quantum Field Theory, designed for mathematicians, is a rigorous introduction to perturbative quantum field theory, using the language of functional integrals. It covers the basics of classical field theory, free quantum theories and Feynman diagrams. The goal is to discuss, using mathematical language, a number of basic notions and results of QFT that are necessary to understand talks and papers in QFT and String Theory.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.238",
+  "course_image_thumbnail": {
+    "content": "b37bd1e7-f3dc-4c9b-ae01-19c188f40c0f",
+    "website": "18-238-geometry-and-quantum-field-theory-fall-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "bf24d6d1-fe24-4751-954c-0092a82b6df3",
+  "site_short_id": "18.238-fall-2002",
+  "title": "Course Metadata"
+}
